@@ -50,6 +50,8 @@ Fitur Dashboard:
 
 - **Analisis Jabatan (Job Role)**: Mengidentifikasi departemen atau posisi dengan tingkat attrition tertinggi untuk prioritas intervensi.
 
+Link Dashboard: [https://a590-belajar-penerapan-data-science-fdzyhbzyacmc6anabpbnbs.streamlit.app/]
+
 ## Conclusion
 
 Berdasarkan analisis data dan model Machine Learning yang dikembangkan, dapat disimpulkan bahwa:
